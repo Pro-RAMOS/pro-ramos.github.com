@@ -1,1 +1,1 @@
-此文件位于/_includes/about/zh.md
+这是一个很接近原生Windows11的PE(RAMOS)，内置原生开始菜单与设置
