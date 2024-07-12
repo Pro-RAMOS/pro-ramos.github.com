@@ -7,7 +7,7 @@
 
 # Contributors
 
-1. **书剑长盱** (Provided Native Login, Optimized System Themes)
+1. **书剑长吁** (Provided Native Login, Optimized System Themes)
 
 2. **MS-CHS** (Website Technical Support)
 
