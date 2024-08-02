@@ -2,10 +2,10 @@
 title: JBT-RAMOS
 SEOTitle: JBT-RAMOS
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: jbtos10@dingtalk.com
 description: "这里是JBT-RAMOS的官网"
 keyword: "JBT"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://jbt-ramos.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -91,6 +91,6 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "MS-CHS的个人博客", href: "https://ms-chs.ce-ramos.cn/" },
+    { title: "MS-CHS的个人博客", href: "https://ms-chsr.github.io/" },
     { title: "JBT-RAMOS的Bilibili主页", href: "https://space.bilibili.com/3493129957149016" },
   ]
