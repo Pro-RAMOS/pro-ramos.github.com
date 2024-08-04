@@ -4,8 +4,8 @@ SEOTitle: Pro-RAMOS
 header-img: img/home-bg.jpg
 email: PRO
 description: "这里是Pro-RAMOS的官网"
-keyword: "JBT"
-url: "https://jbt-ramos.github.io" # your host, for absolute URL
+keyword: "PRO"
+url: "https://PRO-ramos.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
